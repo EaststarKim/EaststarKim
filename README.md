@@ -24,6 +24,7 @@
 
 ## More
 - Github newbie
+
 ![Github Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=EaststarKim)
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=EaststarKim)
