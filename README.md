@@ -9,6 +9,7 @@
 - Received B.S. in [School of Computing at KAIST](https://cs.kaist.ac.kr) (2018~2020)
 	- Minor in Economics
 - Master student of [Graduate School of AI at KAIST](http://gsai.kaist.ac.kr/?lang=ko) (2021~ )
+	- [OSI Lab](http://osi.kaist.ac.kr/home/)
 
 ## Competitive Programmer
 - KOI 2011~2016
