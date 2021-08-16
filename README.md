@@ -1,11 +1,12 @@
 
 # eaststar
 - 김동규 (Donggyu Kim)
-- Blog: Will make someday?
+- Blog: Will make someday(?)
 - Contact: [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:eaststar9979@gmail.com)](mailto:eaststar9979@gmail.com)
 
 ## Student
 - Graduated from [GSHS](https://www.gs.hs.kr) (2015~2017)
+- The 16th Presidential Science Scholarship student (2018~ )
 - Received B.S. in [School of Computing at KAIST](https://cs.kaist.ac.kr) (2018~2020)
 	- Minor in Economics
 - Master student of [Graduate School of AI at KAIST](http://gsai.kaist.ac.kr/?lang=ko) (2021~ )
