@@ -31,7 +31,7 @@
 - I HATE CODEFORCES
 
 ## More
-- Github newbie
+- 2021.08.15 Github newbie project start!
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EaststarKim&layout=compact)
 
