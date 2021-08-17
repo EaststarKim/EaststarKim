@@ -25,12 +25,12 @@
 	- 2018~2021
 	- 2019, 2020 - 5th
 - BOJ: [eaststar](http://icpc.me/eaststar)
+![BOJ](http://mazassumnida.wtf/api/v2/generate_badge?boj=eaststar)
+
 - I HATE CODEFORCES
 
 ## More
 - Github newbie
-
-![BOJ](http://mazassumnida.wtf/api/v2/generate_badge?boj=eaststar) 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EaststarKim&layout=compact)
 
