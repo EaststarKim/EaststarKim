@@ -15,7 +15,7 @@
 
 ## Competitive Programmer
 - KOI 2011~2016
-- Was a member of KAIST RUN
+- Member of KAIST RUN
 - ACM-ICPC Seoul Regional
 	- 2018, Ajou Strong Team - 21th
 	- 2019, kimaeyong - 9th (bronze prize)
@@ -23,7 +23,9 @@
 	- retired
 - SCPC Final
 	- 2018~2021
-	- 2019, 2020 - 5th
+	- 2019, 2020 - 5th prize
+- HYUNDAI MOBIS SW Algorithm Contest
+	- 2021 - ?th prize
 - BOJ: [eaststar](http://icpc.me/eaststar)
 
 ![BOJ](http://mazassumnida.wtf/api/v2/generate_badge?boj=eaststar)
