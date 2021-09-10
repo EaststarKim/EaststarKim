@@ -29,7 +29,7 @@
 	- 2018~2021
 	- 2019, 2020 - 5th prize
 - HYUNDAI MOBIS SW Algorithm Contest
-	- 2021 - ?th prize
+	- 2021 - 5th prize
 - BOJ: [eaststar](http://icpc.me/eaststar)
 
 ![BOJ](http://mazassumnida.wtf/api/v2/generate_badge?boj=eaststar)
@@ -37,7 +37,7 @@
 - I HATE CODEFORCES
 
 ## More
-- 2021.08.15 Github newbie project start!
+- 2021.08.15 Github newbie project start! Most of the repositories for code backup.
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EaststarKim&layout=compact)
 
