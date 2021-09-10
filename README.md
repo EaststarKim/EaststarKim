@@ -13,6 +13,10 @@
 - Master student of [Graduate School of AI at KAIST](http://gsai.kaist.ac.kr/?lang=ko) (2021~ )
 	- [OSI Lab](http://osi.kaist.ac.kr/home/)
 
+## AI Researcher
+- NIMS (National Institute of Meteorological Sciences) project
+	- Development of AI-based ultra-short-term precipitation prediction technology
+
 ## Competitive Programmer
 - KOI 2011~2016
 - Member of KAIST RUN
