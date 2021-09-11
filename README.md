@@ -18,18 +18,18 @@
 	- Development of AI-based ultra-short-term precipitation prediction technology
 
 ## Competitive Programmer
-- KOI 2011~2016
+- KOI Competition 2011,13~16 - silver prizes (*"Top Silver Expert"*)
+- KOI Contest 2016 - bronze prize
 - Member of KAIST RUN
 - ACM-ICPC Seoul Regional
 	- 2018, Ajou Strong Team - 21th
-	- 2019, kimaeyong - 9th (bronze prize)
-	- 2020, God Team with no God - 11th (bronze prize)
+	- 2019, kimaeyong - 9th, bronze prize
+	- 2020, God Team with no God - 11th, bronze prize
 	- retired
 - SCPC Final
 	- 2018~2021
 	- 2019, 2020 - 5th prize
-- HYUNDAI MOBIS SW Algorithm Contest
-	- 2021 - 5th prize
+- HYUNDAI MOBIS SW Algorithm Contest 2021 - 5th prize
 - BOJ: [eaststar](http://icpc.me/eaststar)
 
 ![BOJ](http://mazassumnida.wtf/api/v2/generate_badge?boj=eaststar)
