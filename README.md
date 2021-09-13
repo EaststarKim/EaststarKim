@@ -24,7 +24,7 @@
 - ACM-ICPC Seoul Regional
 	- 2018, Ajou Strong Team - 21th
 	- 2019, kimaeyong - 9th, bronze prize
-	- 2020, God Team with no God - 11th, bronze prize
+	- 2020, God Team with no God - 11th, encouragement prize
 	- retired
 - SCPC Final
 	- 2018~2021
