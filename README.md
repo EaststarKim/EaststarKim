@@ -9,7 +9,7 @@
 - Received B.S. in [School of Computing at KAIST](https://cs.kaist.ac.kr) (2018~2020)
 	- Minor in Economics
 	- Early graduation & Cum Laude
-- M.S. student of [Graduate School of AI at KAIST](http://gsai.kaist.ac.kr/?lang=ko) (2021~ )
+- **M.S. student of [Graduate School of AI at KAIST](http://gsai.kaist.ac.kr/?lang=ko) (2021~ )**
 	- [OSI Lab](http://osi.kaist.ac.kr/home/)
 
 ## AI Researcher
@@ -18,7 +18,7 @@
 	- Published in 2017 4th IAPR Asian Conference on Pattern Recognition (ACPR)
 - Netmarble Summer Internship, Data Scientist (2019.6~2019.8)
 	- DAU feature analysis & Game econometrics model development
-- NIMS (National Institute of Meteorological Sciences) project (2021~ )
+- **NIMS (National Institute of Meteorological Sciences) project (2021~ )**
 	- Development of AI-based ultra-short-term precipitation prediction technology
 
 ## Competitive Programmer
