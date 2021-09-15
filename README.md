@@ -18,7 +18,7 @@
 	- Development of AI-based ultra-short-term precipitation prediction technology
 
 ## Competitive Programmer
-- KOI Competition 2011,13~16 - silver prizes (*"Top Silver Expert"*)
+- KOI Competition 2011,13~16 - silver prizes (~"Top Silver Expert"~)
 - KOI Contest 2016 - bronze prize
 - Member of KAIST RUN
 - ACM-ICPC Seoul Regional
