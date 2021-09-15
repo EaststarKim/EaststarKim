@@ -37,7 +37,7 @@
 - I HATE CODEFORCES
 
 ## More
-- 2021.08.15 Github newbie project start! Most of the repositories are for code backup.
+- 2021.08.15. Github newbie project start! Most of the repositories are for code backup.
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EaststarKim&layout=compact)
 
