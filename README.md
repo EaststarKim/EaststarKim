@@ -5,7 +5,7 @@
 
 ## Student
 - Graduated from [GSHS](https://www.gs.hs.kr) (2015~2017)
-- The 16th Presidential Science Scholarship student (2018~ )
+- The 16th Presidential Science Scholarship student (2018~2020)
 - Received B.S. in [School of Computing at KAIST](https://cs.kaist.ac.kr) (2018~2020)
 	- Minor in Economics
 	- Early graduation & Cum Laude
