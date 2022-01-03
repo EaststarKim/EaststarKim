@@ -27,11 +27,10 @@
 - KOI Competition 2011,13~16 - silver prizes (*"Top Silver Expert"*)
 - KOI Contest 2016 - bronze prize
 - Member of KAIST RUN
-- ACM-ICPC Seoul Regional
+- ACM-ICPC Seoul Regional (retired)
 	- 2018, Ajou Strong Team - 21th
 	- 2019, kimaeyong - 9th, bronze prize
 	- 2020, God Team with no God - 11th, encouragement prize
-	- retired
 - SCPC Final
 	- 2018~2021
 	- 2019, 2020 - 5th prize
