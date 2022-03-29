@@ -7,7 +7,7 @@
 - Graduated from [GSHS](https://www.gs.hs.kr) (2015~2017)
 - The 16th Presidential Science Scholarship student (2018~2020)
 - Received B.S. in [School of Computing at KAIST](https://cs.kaist.ac.kr) (2018~2020)
-	- Minor in Economics
+	- Minor in [Economics](https://btm.kaist.ac.kr/programs-admission/economics/economics-course-requirement)
 	- Early graduation & Cum Laude
 - **M.S. student of [Graduate School of AI at KAIST](http://gsai.kaist.ac.kr/?lang=ko) (2021~ )**
 	- [OSI Lab]()
