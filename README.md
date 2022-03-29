@@ -40,6 +40,7 @@
 ![BOJ](http://mazassumnida.wtf/api/v2/generate_badge?boj=eaststar)
 - Contest examination
 	- SUAPC 2022 Winter
+- Mainly use ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white), but also trying to use ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Rails](https://img.shields.io/badge/rails-%23CC0000.svg?style=for-the-badge&logo=ruby-on-rails&logoColor=white)
 
 ## More
 - 2021.08.15. Github newbie project start! Most of the repositories are for code backup.  
