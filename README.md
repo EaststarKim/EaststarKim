@@ -36,8 +36,8 @@
 	- 2019, 2020 - 5th prize
 	- Samsung SW Membership (2019~ )
 - HYUNDAI MOBIS SW Algorithm Contest 2021 - 5th prize
-- BOJ: [eaststar](http://icpc.me/eaststar)
-	![BOJ](http://mazassumnida.wtf/api/v2/generate_badge?boj=eaststar)
+- BOJ: [eaststar](http://icpc.me/eaststar)  
+![BOJ](http://mazassumnida.wtf/api/v2/generate_badge?boj=eaststar)
 
 - Contest examination
 	- SUAPC 2022 Winter
