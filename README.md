@@ -11,7 +11,7 @@
 	- Early graduation & Cum Laude
 - **M.S. student of [Graduate School of AI at KAIST](http://gsai.kaist.ac.kr/?lang=ko) (2021~ )**
 	- [OSI Lab]()
-	- OSI Lab Server manager (2022) 😓
+	- OSI Lab Server manager (2022) 😭
 
 ## AI Researcher 👨‍💻
 - GSHS Research & Education (2016) 🐣
@@ -28,9 +28,9 @@
 - KOI Contest 2016 - bronze prize
 - Member of [KAIST RUN](https://kaist.run/ko/about/)
 - ACM-ICPC Seoul Regional (retired ⚰️)
-	- 2018, Ajou Strong Team - 21th
-	- 2019, kimaeyong - 9th, bronze prize
-	- 2020, God Team with no God - 11th, encouragement prize
+	- 2018, Ajou Strong Team - 21th 😰
+	- 2019, kimaeyong - 9th, bronze prize 😿
+	- 2020, God Team with no God - 11th, encouragement prize 🙅‍♂️
 - SCPC Final
 	- 2018~2021
 	- 2019, 2020 - 5th prize
