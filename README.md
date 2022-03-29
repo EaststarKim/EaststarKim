@@ -14,12 +14,12 @@
 	- OSI Lab Server manager (2022) 😓
 
 ## AI Researcher 👨‍💻
-- GSHS Research & Education (2016) 🐣
+- GSHS Research & Education (2016)
 	- Finding Compact Class Sets for Korean Font Image Classification
 	- Published in 2017 4th IAPR Asian Conference on Pattern Recognition (ACPR)
-- Netmarble Summer Internship, Data Scientist (2019.6~2019.8) 🎮
+- Netmarble Summer Internship, Data Scientist (2019.6~2019.8)
 	- DAU feature analysis & Game econometrics model development
-- **NIMS (National Institute of Meteorological Sciences) project (2021~ )** ☔
+- **NIMS (National Institute of Meteorological Sciences) project (2021~ )**
 	- Development of AI-based ultra-short-term precipitation prediction technology
 
 - Reseach Interest: Federated Learning, Semi-Supervised Learning, Imbalanced Learning, Fine-Grained Visual Classification
