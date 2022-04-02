@@ -39,7 +39,7 @@
 - BOJ: [eaststar](http://icpc.me/eaststar)  
 ![BOJ](http://mazassumnida.wtf/api/v2/generate_badge?boj=eaststar)
 - Contest examination
-	- SUAPC 2022 Winter
+	- [SUAPC 2022 Winter](https://www.acmicpc.net/category/detail/3032)
 - Mainly use C/C++, but also trying to use Python and Ruby
 
 ## More
