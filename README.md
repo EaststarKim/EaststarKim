@@ -28,9 +28,9 @@
 - KOI Contest 2016 - bronze prize
 - Member of [KAIST RUN](https://kaist.run/ko/about/)
 - ACM-ICPC Seoul Regional (retired ⚰️)
-	- 2018, Ajou Strong Team 💪 - 21th
-	- 2019, kimaeyong 😼 - 9th, bronze prize
-	- 2020, God Team with no God ❌ - 11th, encouragement prize
+	- 2018, Ajou Strong Team 💪 - 21th [scoreboard](http://icpckorea.org/2018/regional/scoreboard/)
+	- 2019, kimaeyong 😼 - 9th, bronze prize [scoreboard](http://icpckorea.org/2019/regional/scoreboard/)
+	- 2020, God Team with no God ❌ - 11th, encouragement prize [scoreboard](http://static.icpckorea.net/2020/scoreboard_terpin/)
 - SCPC Final
 	- 2018~2021
 	- 2019, 2020 - 5th prize
