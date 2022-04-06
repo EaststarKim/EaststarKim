@@ -44,5 +44,5 @@
 
 ## More
 - 2021.08.15. Github newbie project start! Most of the repositories are for code backup.  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EaststarKim&layout=compact)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EaststarKim&langs_count=10&layout=compact)  
 ![Github stats](https://github-readme-stats.vercel.app/api?username=EaststarKim)
