@@ -10,7 +10,7 @@
 	- Minor in [Economics](https://btm.kaist.ac.kr/programs-admission/economics/economics-course-requirement)
 	- Early graduation & Cum Laude
 - **M.S. student of [Graduate School of AI at KAIST](http://gsai.kaist.ac.kr/?lang=ko) (2021~ )**
-	- [OSI Lab]()
+	- [OSI Lab](http://osi.kaist.ac.kr/)
 	- OSI Lab Server manager (2022) 😭
 
 ## AI Researcher 👨‍💻
