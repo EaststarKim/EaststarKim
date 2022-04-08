@@ -27,7 +27,7 @@
 - KOI Competition 2011,13~16 - silver prizes (*"Top Silver Expert"* 😢)
 - KOI Contest 2016 - bronze prize
 - Member of [KAIST RUN](https://kaist.run/ko/about/)
-- KAIST RUN Spring Contest 2018 - [9th](https://www.acmicpc.net/contest/scoreboard/294)), 2019 - [5th](https://www.acmicpc.net/contest/scoreboard/420)
+- KAIST RUN Spring Contest 2018 - [9th](https://www.acmicpc.net/contest/scoreboard/294), 2019 - [5th](https://www.acmicpc.net/contest/scoreboard/420)
 - KAIST ACM-ICPC Mock Competition
 	- 2018, Ajou Strong Team - [6th](https://www.acmicpc.net/contest/spotboard/326)
 	- 2019, Taljoo Ninja Mindol - [4th](https://www.acmicpc.net/contest/spotboard/470)
