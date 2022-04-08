@@ -28,9 +28,11 @@
 - KOI Contest 2016 - bronze prize
 - Member of [KAIST RUN](https://kaist.run/ko/about/)
 - KAIST RUN Spring Contest 2018 ([9th](https://www.acmicpc.net/contest/scoreboard/294)), 2019 ([5th](https://www.acmicpc.net/contest/scoreboard/420))
-- KAIST ACM-ICPC Mock Competition 2018 (Ajou Strong Team, [6th](https://www.acmicpc.net/contest/spotboard/326)), 2019 (Taljoo Ninja Mindol, [4th](https://www.acmicpc.net/contest/spotboard/470)), 2020 (God Team with no God, [2th](https://www.acmicpc.net/contest/spotboard/546))
+- KAIST ACM-ICPC Mock Competition
+	- 2018, Ajou Strong Team - [6th](https://www.acmicpc.net/contest/spotboard/326))
+	- 2019 (Taljoo Ninja Mindol, [4th](https://www.acmicpc.net/contest/spotboard/470))
+	- 2020 (God Team with no God, [2th](https://www.acmicpc.net/contest/spotboard/546))
 - UCPC Final 2018 ~ 2020
-	- 2018, forgot the team name
 	- 2019, 애용애용김애용 - [9th](https://www.acmicpc.net/contest/spotboard/450), Euro Taxi prize (mindol 🙌)
 	- 2020, 내가 그냥 팀명 정해서 신청할까 - [12th](https://www.acmicpc.net/contest/spotboard/524) (5th prize)
 - ACM-ICPC Seoul Regional 2018 ~ 2020 (retired ⚰️)
