@@ -45,7 +45,8 @@
 	- Samsung SW Membership (2019~ )
 - HYUNDAI MOBIS SW Algorithm Contest 2021 - 5th prize
 - BOJ: [eaststar](http://icpc.me/eaststar) ⟶ [solved.ac](https://solved.ac/profile/eaststar)  
-![BOJ](http://mazassumnida.wtf/api/v2/generate_badge?boj=eaststar)
+![solved.ac](http://mazassumnida.wtf/api/v2/generate_badge?boj=eaststar)
+![streak](https://mazandi.herokuapp.com/api?handle=eaststar&theme=warm)
 - Contest examination
 	- [SUAPC 2022 Winter](https://www.acmicpc.net/category/detail/3032)
 - Mainly use C/C++, but also trying to use Python and Ruby
