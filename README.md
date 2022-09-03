@@ -1,6 +1,6 @@
 # eaststar
 - 김동규 (Donggyu Kim)
-- Blog: Will make someday(?)
+- Blog: Will make someday(?) 🤔
 - Contact: [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:eaststar9979@gmail.com)](mailto:eaststar9979@gmail.com)
 
 ## Student 👨‍🎓
@@ -29,26 +29,28 @@
 - IOI summer/winter school 2015.8 ~ 2017.1 🌞⛄
 - Member of GSHS *IamCoder* 👨‍💻
 - Member of [KAIST *RUN*](https://kaist.run/ko/about/) 🏃
-- KAIST RUN Spring Contest 2018 - [9th](https://www.acmicpc.net/contest/scoreboard/294), 2019 - [5th](https://www.acmicpc.net/contest/scoreboard/420) :disappointed_relieved:
+- KAIST RUN Spring Contest 2018 - [9th](https://www.acmicpc.net/contest/scoreboard/294), 2019 - [5th](https://www.acmicpc.net/contest/scoreboard/420) 😥
 - KAIST ACM-ICPC Mock Competition
 	- 2018, Ajou Strong Team - [6th](https://www.acmicpc.net/contest/spotboard/326)
 	- 2019, Taljoo Ninja Mindol - [4th](https://www.acmicpc.net/contest/spotboard/470)
 	- 2020, God Team with no God - [3rd](https://www.acmicpc.net/contest/spotboard/546)
 - UCPC Final 2018 ~ 2020
-	- 2019, 애용애용김애용 - [9th](https://www.acmicpc.net/contest/spotboard/450), Euro Taxi prize (mindol 🙌)
-	- 2020, 내가 그냥 팀명 정해서 신청할까 - [12th](https://www.acmicpc.net/contest/spotboard/524) (5th prize)
-- ACM-ICPC Seoul Regional 2018 ~ 2020 (retired ⚰️)
+	- 2019, 애용애용김애용 🐈 - [9th](https://www.acmicpc.net/contest/spotboard/450), Euro Taxi prize (🙌 ***mindol*** 🙌)
+	- 2020, 내가 그냥 팀명 정해서 신청할까 🤣 - [12th](https://www.acmicpc.net/contest/spotboard/524) (5th prize)
+- ACM-ICPC Seoul Regional 2018 ~ 2020
 	- 2018, Ajou Strong Team 💪 - [21st](http://icpckorea.org/2018/regional/scoreboard/)
 	- 2019, kimaeyong 😼 - [9th](http://icpckorea.org/2019/regional/scoreboard/) (bronze prize)
 	- 2020, God Team with no God ❌ - [11th](http://static.icpckorea.net/2020/scoreboard_terpin/) (encouragement prize)
+	- 2021.2 Graduate with a bachelor's degree == (compulsory) retirement ⚰️
 - SCPC Final 2018 ~ 2021
-	- 2019, 2020 - 5th prize
-	- Samsung SW Membership (2019 ~ )
-- HYUNDAI MOBIS SW Algorithm Contest 2021 - 5th prize
+	- 2019, 2020 - 5th prize == (practically) retired 🧟
+	- 2021 - just for fun 😁
+	- Samsung SW Membership (2019 ~ ) 🦾
+- HYUNDAI MOBIS SW Algorithm Contest 2021 - 5th prize 🚗
 - BOJ: [eaststar](http://icpc.me/eaststar) ⟶ [solved.ac](https://solved.ac/profile/eaststar)  
 ![solved.ac](https://mazassumnida.wtf/api/v2/generate_badge?boj=eaststar)
 ![streak](https://mazandi.herokuapp.com/api?handle=eaststar&theme=warm)
-- Contest examination
+- Contest examination 🧐
 	- [SUAPC 2022 Winter](https://www.acmicpc.net/category/detail/3032)
 - Mainly use C/C++, but also trying to use Python and Ruby
 
