@@ -4,12 +4,12 @@
 - Contact: [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:eaststar9979@gmail.com)](mailto:eaststar9979@gmail.com)
 
 ## Student 👨‍🎓
-- Graduated from [GSHS](https://www.gs.hs.kr) (2015.3 ~ 2018.2)
+- Graduated from [GSHS](https://www.gs.hs.kr) (2015.3 ~ 2018.2) 🐣
 - The 16th Presidential Science Scholarship student (2018.3 ~ 2021.2) 😎
-- Received B.S. in [School of Computing at KAIST](https://cs.kaist.ac.kr) (2018.3 ~ 2021.2)
+- Received B.S. in [School of Computing at KAIST](https://cs.kaist.ac.kr) (2018.3 ~ 2021.2) 🐥
 	- Minor in [Economics](https://btm.kaist.ac.kr/programs-admission/economics/economics-course-requirement)
 	- Early graduation & Cum Laude
-- **M.S. student of [Graduate School of AI at KAIST](http://gsai.kaist.ac.kr/?lang=ko) (2021.3 ~ )**
+- **M.S. student of [Graduate School of AI at KAIST](http://gsai.kaist.ac.kr/?lang=ko) (2021.3 ~ )** 🐔
 	- [OSI Lab](http://osi.kaist.ac.kr/)
 	- OSI Lab Server manager (2022.1 ~ 2022.8) 😭
 
@@ -24,10 +24,11 @@
 - Reseach Interest: Federated Learning, Semi-Supervised Learning, Imbalanced Learning, Fine-Grained Visual Classification
 
 ## Competitive Programmer 🏅
-- KOI Competition 2011, 13, 14, 15, 16 - silver prizes (*"Top Silver Expert"* 😢)
-- KOI Contest 2016 - bronze prize
+- KOI Competition 2011, 13, 14, 15, 16 - silver prizes (*"Top Silver" Expert* 😢)
+- KOI Contest 2016 - bronze prize 👶
 - IOI summer/winter school 2015.8 ~ 2017.1
-- Member of [KAIST RUN](https://kaist.run/ko/about/)
+- Member of GSHS *IamCoder*
+- Member of [KAIST *RUN*](https://kaist.run/ko/about/)
 - KAIST RUN Spring Contest 2018 - [9th](https://www.acmicpc.net/contest/scoreboard/294), 2019 - [5th](https://www.acmicpc.net/contest/scoreboard/420)
 - KAIST ACM-ICPC Mock Competition
 	- 2018, Ajou Strong Team - [6th](https://www.acmicpc.net/contest/spotboard/326)
