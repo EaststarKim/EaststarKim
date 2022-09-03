@@ -4,14 +4,14 @@
 - Contact: [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:eaststar9979@gmail.com)](mailto:eaststar9979@gmail.com)
 
 ## Student 👨‍🎓
-- Graduated from [GSHS](https://www.gs.hs.kr) (2015~2017)
-- The 16th Presidential Science Scholarship student (2018~2020) 😎
-- Received B.S. in [School of Computing at KAIST](https://cs.kaist.ac.kr) (2018~2020)
+- Graduated from [GSHS](https://www.gs.hs.kr) (2015.3 ~ 2018.2)
+- The 16th Presidential Science Scholarship student (2018.3 ~ 2021.2) 😎
+- Received B.S. in [School of Computing at KAIST](https://cs.kaist.ac.kr) (2018.3 ~ 2021.2)
 	- Minor in [Economics](https://btm.kaist.ac.kr/programs-admission/economics/economics-course-requirement)
 	- Early graduation & Cum Laude
-- **M.S. student of [Graduate School of AI at KAIST](http://gsai.kaist.ac.kr/?lang=ko) (2021~ )**
+- **M.S. student of [Graduate School of AI at KAIST](http://gsai.kaist.ac.kr/?lang=ko) (2021.3 ~ )**
 	- [OSI Lab](http://osi.kaist.ac.kr/)
-	- OSI Lab Server manager (2022) 😭
+	- OSI Lab Server manager (2022.1 ~ 2022.8) 😭
 
 ## AI Researcher 👨‍💻
 - GSHS Research & Education (2016) 🐣
@@ -19,7 +19,7 @@
 	- Published in 2017 4th IAPR Asian Conference on Pattern Recognition (ACPR)
 - Netmarble Summer Internship, Data Scientist (2019.6~2019.8) 🎮
 	- DAU feature analysis & Game econometrics model development
-- **NIMS (National Institute of Meteorological Sciences) project (2021~ )** ☔
+- **NIMS (National Institute of Meteorological Sciences) project (2021.3 ~ )** ☔
 	- Development of AI-based ultra-short-term precipitation prediction technology
 - Reseach Interest: Federated Learning, Semi-Supervised Learning, Imbalanced Learning, Fine-Grained Visual Classification
 
