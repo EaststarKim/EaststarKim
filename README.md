@@ -11,10 +11,10 @@
 	- Early graduation & Cum Laude
 - **M.S. student of [Graduate School of AI at KAIST](http://gsai.kaist.ac.kr/?lang=ko) (2021.3 ~ )** 🐔
 	- [OSI Lab](http://osi.kaist.ac.kr/)
-	- OSI Lab Server manager (2022.1 ~ 2022.8) 😭
+	- OSI Lab Server manager (2022.1 ~ 2022.8) 🚀
 
 ## AI Researcher 👨‍💻
-- GSHS Research & Education (2016) 🐣
+- GSHS Research & Education (2016) 🧻
 	- Finding Compact Class Sets for Korean Font Image Classification
 	- Published in 2017 4th IAPR Asian Conference on Pattern Recognition (ACPR)
 - Netmarble Summer Internship, Data Scientist (2019.6 ~ 2019.8) 🎮
@@ -26,10 +26,10 @@
 ## Competitive Programmer 🏅
 - KOI Competition 2011, 13, 14, 15, 16 - silver prizes (*"Top Silver" Expert* 😢)
 - KOI Contest 2016 - bronze prize 👶
-- IOI summer/winter school 2015.8 ~ 2017.1
-- Member of GSHS *IamCoder*
-- Member of [KAIST *RUN*](https://kaist.run/ko/about/)
-- KAIST RUN Spring Contest 2018 - [9th](https://www.acmicpc.net/contest/scoreboard/294), 2019 - [5th](https://www.acmicpc.net/contest/scoreboard/420)
+- IOI summer/winter school 2015.8 ~ 2017.1 🌞⛄
+- Member of GSHS *IamCoder* 👨‍💻
+- Member of [KAIST *RUN*](https://kaist.run/ko/about/) 🏃
+- KAIST RUN Spring Contest 2018 - [9th](https://www.acmicpc.net/contest/scoreboard/294), 2019 - [5th](https://www.acmicpc.net/contest/scoreboard/420) :disappointed_relieved:
 - KAIST ACM-ICPC Mock Competition
 	- 2018, Ajou Strong Team - [6th](https://www.acmicpc.net/contest/spotboard/326)
 	- 2019, Taljoo Ninja Mindol - [4th](https://www.acmicpc.net/contest/spotboard/470)
