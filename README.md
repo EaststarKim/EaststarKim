@@ -43,7 +43,7 @@
 	- 2020, God Team with no God ❌ - [11th](http://static.icpckorea.net/2020/scoreboard_terpin/) (encouragement prize)
 - SCPC Final 2018 ~ 2021
 	- 2019, 2020 - 5th prize
-	- Samsung SW Membership (2019~ )
+	- Samsung SW Membership (2019 ~ )
 - HYUNDAI MOBIS SW Algorithm Contest 2021 - 5th prize
 - BOJ: [eaststar](http://icpc.me/eaststar) ⟶ [solved.ac](https://solved.ac/profile/eaststar)  
 ![solved.ac](https://mazassumnida.wtf/api/v2/generate_badge?boj=eaststar)
