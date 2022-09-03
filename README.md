@@ -17,14 +17,14 @@
 - GSHS Research & Education (2016) 🐣
 	- Finding Compact Class Sets for Korean Font Image Classification
 	- Published in 2017 4th IAPR Asian Conference on Pattern Recognition (ACPR)
-- Netmarble Summer Internship, Data Scientist (2019.6~2019.8) 🎮
+- Netmarble Summer Internship, Data Scientist (2019.6 ~ 2019.8) 🎮
 	- DAU feature analysis & Game econometrics model development
 - **NIMS (National Institute of Meteorological Sciences) project (2021.3 ~ )** ☔
 	- Development of AI-based ultra-short-term precipitation prediction technology
 - Reseach Interest: Federated Learning, Semi-Supervised Learning, Imbalanced Learning, Fine-Grained Visual Classification
 
 ## Competitive Programmer 🏅
-- KOI Competition 2011,13~16 - silver prizes (*"Top Silver Expert"* 😢)
+- KOI Competition 2011, 13, 14, 15, 16 - silver prizes (*"Top Silver Expert"* 😢)
 - KOI Contest 2016 - bronze prize
 - IOI summer/winter school 2015.8 ~ 2017.1
 - Member of [KAIST RUN](https://kaist.run/ko/about/)
