@@ -52,6 +52,7 @@
 ![streak](https://mazandi.herokuapp.com/api?handle=eaststar&theme=warm)
 - Contest examination 🧐
 	- [SUAPC 2022 Winter](https://www.acmicpc.net/category/detail/3032)
+	- [SUAPC 2022 Summer](https://www.acmicpc.net/category/detail/3180)
 - Mainly use C/C++, but also trying to use Python and Ruby
 
 ## More
