@@ -5,10 +5,10 @@
 
 ## Student 👨‍🎓
 - Graduated from [GSHS](https://www.gs.hs.kr) (2015.3 ~ 2018.2) 🐣
-- The 16th Presidential Science Scholarship student (2018.3 ~ 2021.2) 😎
+- The 16th Presidential Science Scholarship student (2018.3 ~ 2021.2) :star:
 - Received B.S. in [School of Computing at KAIST](https://cs.kaist.ac.kr) (2018.3 ~ 2021.2) 🐥
 	- Minor in [Economics](https://btm.kaist.ac.kr/programs-admission/economics/economics-course-requirement)
-	- Early graduation & Cum Laude
+	- Early graduation & Cum Laude :sunglasses:
 - **M.S. student of [Graduate School of AI at KAIST](http://gsai.kaist.ac.kr/?lang=ko) (2021.3 ~ )** 🐔
 	- [OSI Lab](http://osi.kaist.ac.kr/)
 	- OSI Lab Server manager (2022.1 ~ 2022.8) 🚀
@@ -26,11 +26,11 @@
 ## Competitive Programmer 🏅
 - KOI Competition 2011, 13, 14, 15, 16 - silver prizes (*"Top Silver" Expert* 😢)
 - KOI Contest 2016 - bronze prize 👶
-- IOI summer/winter school 2015.8 ~ 2017.1 🌞⛄
+- IOI summer/winter school 2015.8 ~ 2017.1 🌞:snowman_with_snow:
 - Member of GSHS *IamCoder* 👨‍💻
 - Member of [KAIST *RUN*](https://kaist.run/ko/about/) 🏃
-- KAIST RUN Spring Contest 2018 - [9th](https://www.acmicpc.net/contest/scoreboard/294), 2019 - [5th](https://www.acmicpc.net/contest/scoreboard/420) 😥
-- KAIST ACM-ICPC Mock Competition
+- KAIST RUN Spring Contest 2018 - [9th](https://www.acmicpc.net/contest/scoreboard/294), 2019 - [5th](https://www.acmicpc.net/contest/scoreboard/420) :pensive:
+- KAIST ACM-ICPC Mock Competition :sweat_smile:
 	- 2018, Ajou Strong Team - [6th](https://www.acmicpc.net/contest/spotboard/326)
 	- 2019, Taljoo Ninja Mindol - [4th](https://www.acmicpc.net/contest/spotboard/470)
 	- 2020, God Team with no God - [3rd](https://www.acmicpc.net/contest/spotboard/546)
