@@ -5,10 +5,10 @@
 
 ## Student 👨‍🎓
 - Graduated from [GSHS](https://www.gs.hs.kr) (2015.3 ~ 2018.2) 🐣
-- The 16th Presidential Science Scholarship student (2018.3 ~ 2021.2) :star:
+- The 16th Presidential Science Scholarship student (2018.3 ~ 2021.2) ⭐
 - Received B.S. in [School of Computing at KAIST](https://cs.kaist.ac.kr) (2018.3 ~ 2021.2) 🐥
 	- Minor in [Economics](https://btm.kaist.ac.kr/programs-admission/economics/economics-course-requirement)
-	- Early graduation & Cum Laude :sunglasses:
+	- Early graduation & Cum Laude 😎
 - **M.S. student of [Graduate School of AI at KAIST](http://gsai.kaist.ac.kr/?lang=ko) (2021.3 ~ )** 🐔
 	- [OSI Lab](http://osi.kaist.ac.kr/)
 	- OSI Lab Server manager (2022.1 ~ 2022.8) 🚀
@@ -26,12 +26,12 @@
 ## Competitive Programmer 🏅
 - KOI Competition 2011, 13, 14, 15, 16 - silver prizes (*"Top Silver" Expert* 😢)
 - KOI Contest 2016 - bronze prize 👶
-- IOI summer/winter school 2015.8 ~ 2017.1 🌞:snowman_with_snow:
-	- 2016 winter - Samsung Electronics special prize
+- IOI summer/winter school 2015.8 ~ 2017.1 🌞☃️
+	- 2016 winter - Samsung Electronics special prize 😋💽
 - Member of GSHS *IamCoder* 👨‍💻
 - Member of [KAIST *RUN*](https://kaist.run/ko/about/) 🏃
-- KAIST RUN Spring Contest 2018 - [9th](https://www.acmicpc.net/contest/scoreboard/294), 2019 - [5th](https://www.acmicpc.net/contest/scoreboard/420) :pensive:
-- KAIST ACM-ICPC Mock Competition :sweat_smile:
+- KAIST RUN Spring Contest 2018 - [9th](https://www.acmicpc.net/contest/scoreboard/294), 2019 - [5th](https://www.acmicpc.net/contest/scoreboard/420) 😔
+- KAIST ACM-ICPC Mock Competition 😅
 	- 2018, Ajou Strong Team - [6th](https://www.acmicpc.net/contest/spotboard/326)
 	- 2019, Taljoo Ninja Mindol - [4th](https://www.acmicpc.net/contest/spotboard/470)
 	- 2020, God Team with no God - [3rd](https://www.acmicpc.net/contest/spotboard/546)
@@ -43,10 +43,10 @@
 	- 2019, kimaeyong 😼 - [9th](http://icpckorea.org/2019/regional/scoreboard/) (bronze prize)
 	- 2020, God Team with no God ❌ - [11th](http://static.icpckorea.net/2020/scoreboard_terpin/) (encouragement prize)
 	- 2021.2 Graduate with a bachelor's degree == (compulsory) retirement ⚰️
-- SCPC Final 2018 ~ 2021
+- SCPC Final 2018 ~ 2021 ⌨️
 	- 2019, 2020 - 5th prize == (practically) retired 🧟
 	- 2021 - just for fun 😁
-	- Samsung SW Membership (2019 ~ ) 🦾
+	- Samsung SW Membership (2019 ~ ) 🤑💻
 - HYUNDAI MOBIS SW Algorithm Contest 2021 - 5th prize 🚗
 - BOJ: [eaststar](http://icpc.me/eaststar) ⟶ [solved.ac](https://solved.ac/profile/eaststar)  
 ![solved.ac](https://mazassumnida.wtf/api/v2/generate_badge?boj=eaststar)
