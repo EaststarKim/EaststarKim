@@ -27,7 +27,7 @@
 - KOI Competition 2011, 13, 14, 15, 16 - silver prizes (*"Top Silver" Expert* 😢)
 - KOI Contest 2016 - bronze prize 👶
 - IOI summer/winter school 2015.8 ~ 2017.1 🌞:snowman_with_snow:
-	- 2016, Samsung Electronics special prize
+	- 2016 winter - Samsung Electronics special prize
 - Member of GSHS *IamCoder* 👨‍💻
 - Member of [KAIST *RUN*](https://kaist.run/ko/about/) 🏃
 - KAIST RUN Spring Contest 2018 - [9th](https://www.acmicpc.net/contest/scoreboard/294), 2019 - [5th](https://www.acmicpc.net/contest/scoreboard/420) :pensive:
