@@ -57,6 +57,7 @@
 - Contest examination 🧐
 	- [SUAPC 2022 Winter](https://www.acmicpc.net/category/detail/3032)
 	- [SUAPC 2022 Summer](https://www.acmicpc.net/category/detail/3180)
+	- [2022 Sogang Programming Contest](https://www.acmicpc.net/category/697)
 - Mainly use C/C++, but also trying to use Python and Ruby
 
 ## More
