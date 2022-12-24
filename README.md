@@ -59,6 +59,7 @@
 	- [SUAPC 2022 Summer](https://www.acmicpc.net/category/detail/3180)
 	- [2022 Sogang Programming Contest](https://www.acmicpc.net/category/697)
 	- [Zero One Algorithm Contest 2022](https://www.acmicpc.net/category/detail/3313)
+	- [2022 제1회 미적확통컵](https://www.acmicpc.net/category/detail/3335)
 - Mainly use C/C++, but also trying to use Python and Ruby
 
 ## More
