@@ -60,6 +60,7 @@
 	- [2022 Sogang Programming Contest](https://www.acmicpc.net/category/697)
 	- [Zero One Algorithm Contest 2022](https://www.acmicpc.net/category/detail/3313)
 	- [2022 제1회 미적확통컵](https://www.acmicpc.net/category/detail/3335)
+	- [제1회 보라매컵 예선](https://www.acmicpc.net/category/detail/3443)
 - Mainly use C/C++, but also trying to use Python and Ruby
 
 ## More
