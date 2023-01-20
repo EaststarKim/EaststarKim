@@ -9,7 +9,7 @@
 - Received B.S. in [School of Computing at KAIST](https://cs.kaist.ac.kr) (2018.3 ~ 2021.2) 🐥
 	- Minor in [Economics](https://btm.kaist.ac.kr/programs-admission/economics/economics-course-requirement)
 	- Early graduation & Cum Laude 😎
-- **M.S. student of [Graduate School of AI at KAIST](http://gsai.kaist.ac.kr/?lang=ko) (2021.3 ~ )** 🐔
+- **M.S. student of [Graduate School of AI at KAIST](http://gsai.kaist.ac.kr/?lang=ko) (2021.3 ~ 2023.2)** 🐔
 	- [OSI Lab](http://osi.kaist.ac.kr/)
 	- OSI Lab Server manager (2022.1 ~ 2022.8) 🚀
 
