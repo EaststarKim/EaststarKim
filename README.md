@@ -20,6 +20,7 @@
 	- DAU feature analysis & Game econometrics model development
 - NIMS (National Institute of Meteorological Sciences) project (2021.3 ~ 2022.12) ☔
 	- Development of AI-based ultra-short-term precipitation prediction technology
+- Technical Research Personnel (2023.03 ~ )
 - Reseach Interest: Federated Learning, Semi-Supervised Learning, Imbalanced Learning, Fine-Grained Visual Classification
 - [Google Scholar](https://scholar.google.com/citations?hl=ko&user=xfDYEtYAAAAJ)
 
@@ -65,7 +66,7 @@
 	- [2023 KSA Automata Winter Contest](https://www.acmicpc.net/category/detail/3491)
 - Mainly use C/C++, but also trying to use Python and Ruby
 
-## More
+## Misc.
 - 2021.08.15. Github newbie project start! Most of the repositories are for code backup.  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EaststarKim&langs_count=10&layout=compact)
 ![Github stats](https://github-readme-stats.vercel.app/api?username=EaststarKim&count_private=true&show_icons=true)
