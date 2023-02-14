@@ -22,7 +22,7 @@
 	- Development of AI-based ultra-short-term precipitation prediction technology
 - Master's Thesis 🍜
 	- Undercover - working on submission to conference
-- Technical Research Personnel (2023.03 ~ ) 🪖
+- Technical Research Personnel (2023.03 ~ ) 🔫
 	- Undercover?
 - Reseach Interest: Federated Learning, Semi-Supervised Learning, Imbalanced Learning, Fine-Grained Visual Classification
 - [Google Scholar](https://scholar.google.com/citations?hl=ko&user=xfDYEtYAAAAJ)
