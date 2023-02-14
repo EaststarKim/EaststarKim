@@ -62,6 +62,8 @@
 	- [Zero One Algorithm Contest 2022](https://www.acmicpc.net/category/detail/3313)
 	- [2022 제1회 미적확통컵](https://www.acmicpc.net/category/detail/3335)
 	- [제1회 보라매컵 예선](https://www.acmicpc.net/category/detail/3443) / [본선](https://www.acmicpc.net/category/detail/3463)
+	- [아니메컵 2쿨](https://www.acmicpc.net/category/detail/3490)
+	- [2023 KSA Automata Winter Contest](https://www.acmicpc.net/category/detail/3491)
 - Mainly use C/C++, but also trying to use Python and Ruby
 
 ## More
