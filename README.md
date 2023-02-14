@@ -22,6 +22,7 @@
 - NIMS (National Institute of Meteorological Sciences) project (2021.3 ~ 2022.12) ☔
 	- Development of AI-based ultra-short-term precipitation prediction technology
 - Reseach Interest: Federated Learning, Semi-Supervised Learning, Imbalanced Learning, Fine-Grained Visual Classification
+- [Google Scholar](https://scholar.google.com/citations?hl=ko&user=xfDYEtYAAAAJ)
 
 ## Competitive Programmer 🏅
 - KOI Competition 2011, 13, 14, 15, 16 - Silver prizes (*"Top Silver" Expert* 😢)
