@@ -69,6 +69,7 @@
 	- [아니메컵 2쿨](https://www.acmicpc.net/category/detail/3490)
 	- [2023 KSA Automata Winter Contest](https://www.acmicpc.net/category/detail/3491)
 	- [2023 ICPC Sinchon Winter Algorithm Camp Contest](https://www.acmicpc.net/category/801)
+	- [제1회 흐즈로컵](https://www.acmicpc.net/category/detail/3519)
 - Mainly use C/C++, but also trying to use Python and Ruby
 
 ## Misc.
