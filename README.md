@@ -23,7 +23,7 @@
 - Master's Thesis 🍜
 	- Undercover - working on submission to conference
 - Technical Research Personnel (2023.03 ~ ) 🔫
-	- Undercover?
+	- [Medipixel](https://medipixel.io/)
 - Reseach Interest: Federated Learning, Semi-Supervised Learning, Imbalanced Learning, Fine-Grained Visual Classification
 - [Google Scholar](https://scholar.google.com/citations?hl=ko&user=xfDYEtYAAAAJ)
 
@@ -71,6 +71,7 @@
 	- [2023 ICPC Sinchon Winter Algorithm Camp Contest](https://www.acmicpc.net/category/801)
 	- [제1회 흐즈로컵](https://www.acmicpc.net/category/detail/3519)
 	- [2022 경인지역 6개 대학 연합 프로그래밍 경시대회 shake!](https://www.acmicpc.net/category/detail/3557)
+	- [GEC-Cup](https://www.acmicpc.net/category/detail/3562)
 - Mainly use C/C++, but also trying to use Python and Ruby
 
 ## Misc.
