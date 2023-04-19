@@ -23,7 +23,9 @@
 - Master's Thesis 🍜
 	- Undercover - working on submission to conference
 - Technical Research Personnel (2023.03 ~ ) 🔫
-	- [Medipixel](https://medipixel.io/) 🧠🩸
+	- [Medipixel](https://medipixel.io/) 🫀📈
+		- NVI Team 🧠🩸
+			- Research Engineer
 - Reseach Interest: Federated Learning, Semi-Supervised Learning, Imbalanced Learning, Fine-Grained Visual Classification
 - [Google Scholar](https://scholar.google.com/citations?hl=ko&user=xfDYEtYAAAAJ)
 
