@@ -73,6 +73,7 @@
 	- [제1회 흐즈로컵](https://www.acmicpc.net/category/detail/3519)
 	- [shake! 2022](https://www.acmicpc.net/category/detail/3557)
 	- [GEC-Cup](https://www.acmicpc.net/category/detail/3562)
+	- [제1회 와쿠(AGCU)컵](https://www.acmicpc.net/category/detail/3568)
 - Mainly use C/C++, but also trying to use Python and Ruby
 
 ## Misc.
