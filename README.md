@@ -63,8 +63,7 @@
 ![solved.ac](https://mazassumnida.wtf/api/v2/generate_badge?boj=eaststar)
 ![streak](https://mazandi.herokuapp.com/api?handle=eaststar&theme=warm)
 - Contest examination 🧐
-	- [SUAPC 2022 Winter](https://www.acmicpc.net/category/detail/3032)
-	- [SUAPC 2022 Summer](https://www.acmicpc.net/category/detail/3180)
+	- [SUAPC 2022 Winter](https://www.acmicpc.net/category/detail/3032) / [Summer](https://www.acmicpc.net/category/detail/3180)
 	- [2022 Sogang Programming Contest](https://www.acmicpc.net/category/697)
 	- [Zero One Algorithm Contest 2022](https://www.acmicpc.net/category/detail/3313)
 	- [2022 제1회 미적확통컵](https://www.acmicpc.net/category/detail/3335)
