@@ -6,7 +6,7 @@
 ## Student 👨‍🎓
 - Graduated from [GSHS](https://www.gs.hs.kr) (2015.3 ~ 2018.2) 🐣
 - B.S. in [School of Computing at KAIST](https://cs.kaist.ac.kr) (2018.3 ~ 2021.2) 🐥
-	- Minor in [Economics](https://btm.kaist.ac.kr/programs-admission/economics/economics-course-requirement)
+	- Minor in [Economics](https://btm.kaist.ac.kr/programs-admission/economics/economics-course-requirement) 💲
 	- Early graduation & Cum Laude 😎
 	- The 16th Presidential Science Scholarship student (2018.3 ~ 2021.2) ⭐
 - M.S. in [Graduate School of AI at KAIST](http://gsai.kaist.ac.kr/?lang=ko) (2021.3 ~ 2023.2) 🐔
@@ -41,25 +41,25 @@
 - KAIST RUN Spring Contest
 	- 2018 - [9th](https://www.acmicpc.net/contest/scoreboard/294) 😵
 	- 2019 - [5th](https://www.acmicpc.net/contest/scoreboard/420) 😔
-- KAIST ACM-ICPC Mock Competition 😅
-	- 2018, Ajou Strong Team - [6th](https://www.acmicpc.net/contest/spotboard/326)
-	- 2019, Taljoo Ninja Mindol - [4th](https://www.acmicpc.net/contest/spotboard/470)
-	- 2020, God Team with no God - [3rd](https://www.acmicpc.net/contest/spotboard/546) 🎁
+- KAIST ACM-ICPC Mock Competition
+	- 2018, Ajou Strong Team - [6th](https://www.acmicpc.net/contest/spotboard/326) 😅
+	- 2019, Taljoo Ninja Mindol - [4th](https://www.acmicpc.net/contest/spotboard/470) 😠
+	- 2020, God Team with no God - [3rd](https://www.acmicpc.net/contest/spotboard/546) 💵
 - UCPC Final 2018 ~ 2020
-	- 2019, 애용애용김애용 🐈 - [9th](https://www.acmicpc.net/contest/spotboard/450), Euro Taxi prize (🙌 ***mindol*** 🙌)
-	- 2020, 내가 그냥 팀명 정해서 신청할까 🤣 - [12th](https://www.acmicpc.net/contest/spotboard/524) (5th prize)
+	- 2019, 애용애용김애용 🐈 - [9th](https://www.acmicpc.net/contest/spotboard/450), Euro Taxi prize 🖱️ (🙌 ***mindol*** 🙌)
+	- 2020, 내가 그냥 팀명 정해서 신청할까 🤣 - [12th](https://www.acmicpc.net/contest/spotboard/524) (5th prize) 💸
 - ACM-ICPC Seoul Regional 2018 ~ 2020 👕
-	- 2018, Ajou Strong Team 💪 - [21st](http://icpckorea.org/2018/regional/scoreboard/)
-	- 2019, kimaeyong 😼 - [9th](http://icpckorea.org/2019/regional/scoreboard/) (bronze prize) 💸
-	- 2020, God Team with no God ❌ - [11th](http://static.icpckorea.net/2020/scoreboard_terpin/) (encouragement prize) 💸
+	- 2018, Ajou Strong Team 💪 - [21st](http://icpckorea.org/2018/regional/scoreboard/) 🤕
+	- 2019, kimaeyong 😼 - [9th](http://icpckorea.org/2019/regional/scoreboard/) (bronze prize) 💰
+	- 2020, God Team with no God ❌ - [11th](http://static.icpckorea.net/2020/scoreboard_terpin/) (encouragement prize) 💰
 	- 2021.2 Graduate with a bachelor's degree == (compulsory) retirement ⚰️
-- SCPC Final 2018 ~ 2021 ⌨️
-	- 2019, 2020 - 5th prize 💰 == (practically) retired 🧟
+- SCPC Final 2018 ~ 2021 ⌨️ :phone
+	- 2019, 2020 - 5th prize 💰💰 == (practically) retired 🧟
 	- 2021 - just for fun 😁
 	- Samsung SW Membership (2019 ~ ) 🤑💻
 - HYUNDAI MOBIS SW Algorithm Contest 🚗
-	- 2021 - 5th prize 💸
-	- 2023 - 7th place = iPad Air
+	- 2021 - 5th prize 💰
+	- 2023 - 7th place (iPad Air) 🙄
 - Good Bye, BOJ 2022! - [37th](https://www.acmicpc.net/contest/board/928) / Hello, BOJ 2023! - [22nd](https://www.acmicpc.net/contest/board/936), special prize 📖
 - BOJ: [eaststar](http://icpc.me/eaststar) ⟶ [solved.ac](https://solved.ac/profile/eaststar)  
 ![solved.ac](https://mazassumnida.wtf/api/v2/generate_badge?boj=eaststar)
