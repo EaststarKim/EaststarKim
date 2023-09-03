@@ -38,9 +38,7 @@
 	- 2016 winter - Samsung Electronics special prize 😋💽
 - Member of GSHS *IamCoder* 👨‍💻
 - Member of [KAIST *RUN*](https://kaist.run/ko/about/) 🏃
-- KAIST RUN Spring Contest
-	- 2018 - [9th](https://www.acmicpc.net/contest/scoreboard/294) 😵
-	- 2019 - [5th](https://www.acmicpc.net/contest/scoreboard/420) 😔
+- KAIST RUN Spring Contest 2018 - [9th](https://www.acmicpc.net/contest/scoreboard/294) / 2019 - [5th](https://www.acmicpc.net/contest/scoreboard/420) 😔
 - KAIST ACM-ICPC Mock Competition
 	- 2018, Ajou Strong Team - [6th](https://www.acmicpc.net/contest/spotboard/326) 😅
 	- 2019, Taljoo Ninja Mindol - [4th](https://www.acmicpc.net/contest/spotboard/470) 😠
