@@ -58,7 +58,7 @@
 - HYUNDAI MOBIS SW Algorithm Contest 🚗
 	- 2021 (student) - 5th prize 💰
 	- 2023 (general) - 7th place (iPad Air 🍎)
-	- 2024 (genearl) - 16th place (iPad Air 🍏)
+	- 2024 (general) - 16th place (iPad Air 🍏)
 - Good Bye, BOJ 2022! - [37th](https://www.acmicpc.net/contest/board/928) / Hello, BOJ 2023! - [22nd](https://www.acmicpc.net/contest/board/936), special prize 📖
 - BOJ: [eaststar](http://icpc.me/eaststar) ⟶ [solved.ac](https://solved.ac/profile/eaststar)  
 ![solved.ac](https://mazassumnida.wtf/api/v2/generate_badge?boj=eaststar)
