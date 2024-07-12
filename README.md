@@ -21,10 +21,10 @@
 - NIMS (National Institute of Meteorological Sciences) project (2021.3 ~ 2022.12) ☔
 	- Development of AI-based ultra-short-term precipitation prediction technology
 - Master's Thesis 🍜
-	- Undercover - working on submission to conference
+	- Federated Learning (Undercover - working on submission to conference)
 - Technical Research Personnel (2023.03 ~ ) 🔫
 	- [Medipixel](https://medipixel.io/) 🫀📈
-		- NVI Team 🧠🩸 - Research Engineer
+		- CV Team Research Engineer - Neurovascular, Cerebral Aneurysm 🧠🩸
 - Reseach Interest: Federated Learning, Semi-Supervised Learning, Imbalanced Learning, Fine-Grained Visual Classification
 - [Google Scholar](https://scholar.google.com/citations?hl=ko&user=xfDYEtYAAAAJ)
 
