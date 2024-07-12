@@ -15,7 +15,7 @@
 
 ## AI Researcher 👨‍💻
 - GSHS Research & Education (2016) 🧻
-	- Finding Compact Class Sets for Korean Font Image Classification
+	- Finding Compact Class Sets for Korean Font Image Classification 가
 - Netmarble Summer Internship, Data Scientist (2019.6 ~ 2019.8) 🎮
 	- DAU feature analysis & Game econometrics model development
 - NIMS (National Institute of Meteorological Sciences) project (2021.3 ~ 2022.12) ☔
