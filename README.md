@@ -28,12 +28,12 @@
 - Reseach Interest: Federated Learning, Semi-Supervised Learning, Imbalanced Learning, Fine-Grained Visual Classification
 - [Google Scholar](https://scholar.google.com/citations?hl=ko&user=xfDYEtYAAAAJ)
 
-## Competitive Programmer 🏅
+## Competitive Programmer 🏆
 - KOI Competition 2011, 13, 14, 15, 16 - Silver prizes (*"Top Silver" Expert* 😢)
 - KOI Contest 2016 - bronze prize 👶
 - ICT Award Korea 2016 💩
-	- C algorithm programming - Grand prize 🥇
-	- Discrete mathematics - Gold prize 🥈
+	- C algorithm programming - Grand prize 🏅
+	- Discrete mathematics - Gold prize 🥇
 - IOI summer/winter school 2015.8 ~ 2017.1 🌞☃️
 	- 2016 winter - Samsung Electronics special prize 😋💽
 - Member of GSHS *IamCoder* 👨‍💻
