@@ -51,7 +51,7 @@
 	- 2019, kimaeyong 😼 - [9th](http://icpckorea.org/2019/regional/scoreboard/) (bronze prize) 💰
 	- 2020, God Team with no God ❌ - [11th](http://static.icpckorea.net/2020/scoreboard_terpin/) (encouragement prize) 💰
 	- 2021.2 Graduate with a bachelor's degree == (compulsory) retirement ⚰️
-- SCPC Final 2018 ~ 2021 ⌨️
+- ### SCPC Final 2018 ~ 2021 ⌨️
 	- 2019 - 5th prize 💰
  	- 2020 - 5th prize 💰 == (practically) retired 🧟
 	- 2021 - just for fun 😁
