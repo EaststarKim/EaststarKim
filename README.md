@@ -21,7 +21,7 @@
 - NIMS (National Institute of Meteorological Sciences) project (2021.3 ~ 2022.12) ☔
 	- Development of AI-based ultra-short-term precipitation prediction technology
 - Master's Thesis 🍜
-	- Federated Learning (Undercover - working on submission to conference)
+	- Federated Learning (Undercover) - coming soon...!
 - Technical Research Personnel (2023.03 ~ ) 🔫
 	- [Medipixel](https://medipixel.io/) 🫀📈
 		- CV Team Research Engineer - Neurovascular, Cerebral Aneurysm 🧠🩸
@@ -52,7 +52,8 @@
 	- 2020, God Team with no God ❌ - [11th](http://static.icpckorea.net/2020/scoreboard_terpin/) (encouragement prize) 💰
 	- 2021.2 Graduate with a bachelor's degree == (compulsory) retirement ⚰️
 - SCPC Final 2018 ~ 2021 ⌨️
-	- 2019, 2020 - 5th prize 💰💰 == (practically) retired 🧟
+	- 2019 - 5th prize 💰
+ 	- 2020 - 5th prize 💰 == (practically) retired 🧟
 	- 2021 - just for fun 😁
 	- Samsung SW Membership (2019 ~ ) 🤑💻
 - HYUNDAI MOBIS SW Algorithm Contest 🚗
