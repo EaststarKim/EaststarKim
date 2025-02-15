@@ -64,6 +64,7 @@
 - BOJ: [eaststar](http://icpc.me/eaststar) ⟶ [solved.ac](https://solved.ac/profile/eaststar)  
 ![solved.ac](https://mazassumnida.wtf/api/v2/generate_badge?boj=eaststar)
 ![streak](https://mazandi.herokuapp.com/api?handle=eaststar&theme=warm)
+<a href="https://www.solve-nyang.com"><img src="https://api.solve-nyang.com/compose/eaststar" width="600" height="300"/></a>
 - Contest examination 🧐
 	- [SUAPC 2022 Winter](https://www.acmicpc.net/category/detail/3032) / [Summer](https://www.acmicpc.net/category/detail/3180)
 	- [2022 Sogang Programming Contest](https://www.acmicpc.net/category/697)
