@@ -21,7 +21,7 @@
 - NIMS (National Institute of Meteorological Sciences) project (2021.3 ~ 2022.12) ☔
 	- Development of AI-based ultra-short-term precipitation prediction technology
 - Master's Thesis 🍜
-	- Federated learning with noisy labels
+	- Federated learning with noisy labels  
 	(⚔️Succesor -> Flr: Label-mixture regularization for federated learning with noisy labels)
 	
 - Technical Research Personnel (2023.03 ~ 2026.03) 🫡
