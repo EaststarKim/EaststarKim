@@ -23,7 +23,6 @@
 - Master's Thesis 🍜
 	- Federated learning with noisy labels  
 	(⚔️Succesor -> Flr: Label-mixture regularization for federated learning with noisy labels)
-	
 - Technical Research Personnel (2023.03 ~ 2026.03) 🫡
 	- [Medipixel](https://medipixel.io/) 🫀📈
 		- CV Team Research Engineer - Neurovascular, Cerebral Aneurysm 🧠🩸
